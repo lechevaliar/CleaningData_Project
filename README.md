@@ -11,3 +11,4 @@ This repos consists of 2 parts
   
   2.CodeBook.md - describing the detail of each variable
   
+Noe that you can read "tidydata.txt" (uploaded on assignment page) with read.table("tidydata.txt",header=T) (assume that the .txt file is in your wd)
