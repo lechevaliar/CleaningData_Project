@@ -7,7 +7,7 @@ For more infos, please visit the course website.
 
 This repos consists of 2 parts
 
-  1.run_analysis.R - script for performing the analysis
+  1.run_analysis.R - script for creating a tidy data set with the average of each variable for each activity and each subject. 
   
-  2.codebook.md - describing the variables
+  2.CodeBook.md - describing the detail of each variable
   
