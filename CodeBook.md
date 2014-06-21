@@ -16,7 +16,7 @@ This is a code book.It describes the meaning and detail of each variable.
 	
 	-LAYING
 
-2.subject_no. - identifie the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+2.subject_no. - identify the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 3.type - indicate whetther the subject is in test group or train group
 
